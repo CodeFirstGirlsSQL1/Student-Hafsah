@@ -1,3 +1,1 @@
-
-print ('my new line')
-print ('Hafsahs code')
+print ('hello world')
